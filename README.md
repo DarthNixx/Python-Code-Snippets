@@ -1,2 +1,3 @@
-# FirstRepo
-My First Repo (Test)
+# Code Snippets
+
+Python examples 
