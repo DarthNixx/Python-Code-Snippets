@@ -1,5 +1,5 @@
 class Menu:
-    	#Constructor
+  #Constructor
   def __init__(self, name, items, start_time, end_time):
     self.name = name
     self.items = items
